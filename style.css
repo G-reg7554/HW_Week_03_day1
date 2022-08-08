@@ -1,0 +1,50 @@
+header{
+    background-color: dodgerblue;
+    padding: 1px 25px;
+    margin-right: 5px 10px;
+    color: white;
+    
+}
+#link-target>li>a{
+    color: white;
+}
+#link-target>li>a:visited{
+    color: white;
+}
+nav>ul>li{
+    list-style-type: none;
+}
+
+section>input{
+    display: block;
+}
+.center-move{
+    float: left;
+    /* margin-left: 20%; */
+    
+    border-top: solid;
+    width: 70%;
+}
+.round-edge{
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.no-border{
+    border-style: none;
+    width: 100;
+}
+
+/* article>textarea{
+    margin-bottom: 30px;
+} */
+footer{
+    background-color: dodgerblue;
+    padding-left: 500px;
+    padding-right: 150px;
+}
+.center-all{
+    margin-left: 20%;
+}
+
+
